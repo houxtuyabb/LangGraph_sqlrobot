@@ -1,0 +1,39 @@
+# LangChain相关依赖
+langchain-core
+langchain-deepseek
+langchain-tavily
+
+# LangGraph相关依赖
+langgraph
+
+# 环境变量管理
+python-dotenv
+
+# 数据库连接
+pymysql
+sqlalchemy
+
+# 数据处理和可视化
+pandas
+matplotlib
+seaborn
+
+# 数据验证
+pydantic
+
+# JSON处理
+json
+
+# API跟踪和监控
+langsmith
+
+# 其他实用工具
+uuid
+os
+sys
+
+# 开发工具
+ipython
+
+# HTTP客户端（如果需要）
+tavily-python
